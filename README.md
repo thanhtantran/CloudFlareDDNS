@@ -11,4 +11,4 @@ Update the PHP file with your own details and host online. Call the file with a 
 */5 * * * * /home/user/updateCloudFlare.sh
 ```
 
-Read more on my blog: https://scotthel.me/cfddns
+From: https://scotthel.me/cfddns
